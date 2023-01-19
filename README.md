@@ -1,3 +1,3 @@
-## Resume Maker 
+# Resume Maker 
 
-# link= [https://resumedoo.vercel.app/]
+## link= [https://resumedoo.vercel.app/]
